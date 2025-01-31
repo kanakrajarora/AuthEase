@@ -77,18 +77,12 @@ The application should now be running on [http://127.0.0.1:5000/](http://127.0.0
 2. Enter the OTP received in your email to verify your identity.
 3. If needed, click the **Resend OTP** button to request a new OTP.
 
-## Screenshots
 
-1. **Landing Page**
-   ![Landing Page](path-to-your-landing-page-screenshot.png)
-
-2. **OTP Verification**
-   ![OTP Verification](path-to-your-otp-verification-screenshot.png)
 
 ## Contributing
 
 We welcome contributions to this project! 
 
-###**License**
+## **License**
 
 This project is licensed under the MIT License.
