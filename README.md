@@ -6,7 +6,9 @@
 
 This project aims to demonstrate the implementation of OTP-based email authentication in a web application.
 
-##Video Demo Link: https://youtu.be/SFGHtAPvzIs
+## Video Demo Link
+
+https://youtu.be/SFGHtAPvzIs
 
 ## Features
 
