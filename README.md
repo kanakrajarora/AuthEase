@@ -6,6 +6,8 @@
 
 This project aims to demonstrate the implementation of OTP-based email authentication in a web application.
 
+##Video Demo Link: https://youtu.be/SFGHtAPvzIs
+
 ## Features
 
 - **OTP Generation**: Users provide their email, and an OTP is sent to their email for verification.
